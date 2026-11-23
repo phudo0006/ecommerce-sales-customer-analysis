@@ -1,0 +1,11 @@
+# Kaggle raw dataset files: keep out of the repository unless redistribution is permitted
+data/raw/*
+!data/raw/README.md
+
+# Temporary / operating-system files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.log
+*.bak
